@@ -1,6 +1,6 @@
 # Tinder Tools
 
-A suite of tools for working with the Tinder API.
+A suite of tools for working with the Tinder A.P.I.
 
 ### Tools
 
@@ -14,4 +14,4 @@ A suite of tools for working with the Tinder API.
 
 ### Secrets
 
-Copy `secrets.example.js` to `secrets.js`. Fill in your facebook login, password, user ID and access token (or use `get-creds`). The secrets are used across all the tinder tools.
+Copy `secrets.example.js` to `secrets.js`. Fill in your facebook login, password, user ID and access token (or use `get-creds`). The secrets are used across all tinder tools. 
